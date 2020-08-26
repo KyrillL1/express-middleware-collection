@@ -1,5 +1,5 @@
 # Overview
-This repo contains a collection of commonly used middleware for an node based express server.
+This repo contains a collection of commonly used middleware for a node based express server.
 Everything is written in ts. So if plain .js files are needed, feel free to compile them on your own.
 
 # Installation
